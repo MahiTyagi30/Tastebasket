@@ -34,7 +34,6 @@ import {  createUserWithEmailAndPassword, signInWithEmailAndPassword } from "fir
 
 
 
-
 const provider = new GoogleAuthProvider();
 
 
